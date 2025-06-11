@@ -21,7 +21,7 @@ It supports reproducible workflows in soil monitoring, rhizosphere research, and
 ## 🧠 Methodology
 
 1. **Calibration Curve**
-   Converts R/G ratios to pH using a logistic model:
+   Converts R/G ratios to pH using a logistic model
 
   
 
