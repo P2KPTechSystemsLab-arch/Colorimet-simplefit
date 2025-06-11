@@ -20,14 +20,10 @@ It supports reproducible workflows in soil monitoring, rhizosphere research, and
 
 ## 🧠 Methodology
 
-1. **Calibration Equation**
+1. **Calibration Curve**
    Converts R/G ratios to pH using a logistic model:
 
-   $$
-   \text{pH} = X_0 - dx \cdot \log_{10} \left( \frac{A_1 - A_2}{\text{ratio} - A_2} - 1 \right)
-   $$
-
-   where the constants $A_1, A_2, X_0, dx$ are defined from experimental calibration.
+  
 
 2. **Image Processing Pipeline**
 
